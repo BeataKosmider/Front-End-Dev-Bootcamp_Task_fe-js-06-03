@@ -9,8 +9,6 @@ const fetchGetCurrencyList = () => {
       selectEl.innerHTML = "";
       const currencyRates = data.rates;
       const keys = Object.keys(currencyRates);
-      console.log(keys);
-      selectEl.setAttribute("id", "currency");
       for (let i = 0; i < keys.length; i++) {
         const optn = keys[i];
         const optionEl = document.createElement("option");
