@@ -1,4 +1,4 @@
-Task realized durig Front-End Developer Bootcamp
+Task performed during Front-End Developer Bootcamp
 
 Korzystając z Frankfurter API, stwórz przycisk o id=”getCurrencies”, który wywołuje funkcję getCurrencyList, która wykona fetch wywołującą zapytanie pod adres https://api.frankfurter.app/latest. 
 
